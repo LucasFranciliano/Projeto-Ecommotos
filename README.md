@@ -1,5 +1,6 @@
 # Projeto-Ecommotos
-Projeto da disciplina Desenvolvimento de Sistemas II da Universidade Presbiteriana Mackenzie.
+Projeto da disciplina Desenvolvimento de Sistemas II da Universidade Presbiteriana Mackenzie.  
+Obs.: O logo do projeto foi elaborado utilizando IA Generativa.
 
 # Criado por
  Lucas Franciliano da Silva  
