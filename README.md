@@ -12,3 +12,5 @@ Obs.: O logo da empresa para o projeto foi elaborado utilizando IA Generativa.
  Declaração de escopo do projeto  
  Requisitos funcionais e não funcionais  
  Diagrama de casos de uso  
+
+ # TG2
