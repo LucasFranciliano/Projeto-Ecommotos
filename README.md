@@ -14,3 +14,5 @@ Obs.: O logo da empresa para o projeto foi elaborado utilizando IA Generativa.
  Diagrama de casos de uso  
 
  # TG2
+ Protótipo
+ Modelagem de negócios
