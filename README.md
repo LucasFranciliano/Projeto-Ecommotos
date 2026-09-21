@@ -16,3 +16,8 @@ Obs.: O logo da empresa para o projeto foi elaborado utilizando IA Generativa.
  # TG2
  Protótipo  
  Modelagem de negócios
+
+ # TG3 
+ Requisitos Funcionais (RF) 
+ Requisitos Não Funcionais (RNF) 
+ 
