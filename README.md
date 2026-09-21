@@ -18,6 +18,6 @@ Obs.: O logo da empresa para o projeto foi elaborado utilizando IA Generativa.
  Modelagem de negócios
 
  # TG3 
- Requisitos Funcionais (RF) 
+ Requisitos Funcionais (RF)  
  Requisitos Não Funcionais (RNF) 
  
