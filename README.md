@@ -20,4 +20,7 @@ Obs.: O logo da empresa para o projeto foi elaborado utilizando IA Generativa.
  # TG3 
  Requisitos Funcionais (RF)  
  Requisitos Não Funcionais (RNF) 
+
+ # TG4 
+ GRASP
  
